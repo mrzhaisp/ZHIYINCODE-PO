@@ -16,7 +16,7 @@ class LoginBussiness:
 		self.loghandle.input_username(username)
 		self.loghandle.input_pwd(pwd)
 		self.loghandle.click_btn()
-		t.sleep(3)
+		t.sleep(2)
 
 
 		# text = self.loghandle.sucess_get_text()

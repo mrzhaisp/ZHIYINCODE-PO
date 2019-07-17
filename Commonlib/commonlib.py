@@ -1,13 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import time as t
+import warnings
 class Commonlib:
 	def __init__(self,driver):
 		self.driver = driver
 
 	def get_screen_shot(self,value):
 		"""异常截图"""
-		self.driver.get_screenshot_as_file(value)
+		nowtime = t.strftime("%Y%m%d.%H.%M.%S")
+		# pictfile = "C:\\Users\\Test\\ErrorPict"
+		pictfile = '../Errorpict/'
+		pictname = nowtime +'--'+ value + '.png'
+		allname = pictfile + pictname
+		self.driver.get_screenshot_as_file(allname)
+
+	def solv_log_waring(self):
+		warnings.simplefilter("ignore", ResourceWarning)
 
 	def close_alert(self):
 		"""关闭弹框"""

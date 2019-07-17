@@ -1,0 +1,6 @@
+2019-07-17 17:43:00,148-logTest-INFO-logg:打开浏览器运行--<class '__main__.LoginTest'>--这个类
+2019-07-17 17:43:02,472-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-17 17:43:07,545-logTest-INFO-logg:关闭浏览器
+2019-07-17 17:43:19,150-logTest-INFO-logg:打开浏览器运行--<class '__main__.LoginTest'>--这个类
+2019-07-17 17:43:21,485-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-17 17:43:26,513-logTest-INFO-logg:关闭浏览器

@@ -1,7 +1,7 @@
 {
   "test_login_pwd_error": {
     "username": "admin",
-    "pwd": "#@#!@#!@#!#@!#!@",
+    "pwd": "1111112",
     "expect": "密码不能为空",
     "is_sucess": false
   },
