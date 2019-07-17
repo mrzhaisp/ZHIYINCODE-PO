@@ -1,0 +1,14 @@
+{
+  "test_login_pwd_error": {
+    "username": "admin",
+    "pwd": "#@#!@#!@#!#@!#!@",
+    "expect": "密码不能为空",
+    "is_sucess": false
+  },
+  "test_login_sucess": {
+    "username": "admin",
+    "pwd": "111111",
+    "expect": "声像情报融合分析平台",
+    "is_sucess": true
+  }
+}
