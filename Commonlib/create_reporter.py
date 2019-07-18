@@ -1,0 +1,40 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import HTMLTestRunnerNew
+import time as t
+nowtime = t.strftime("%Y%m%d.%H.%M.%S")
+
+class CreateReporter:
+	"""制作测试报告"""
+	def createreport(self,mysuit):
+		# filepath = "../Repoter/151_selenium_UI_report.htm"
+		pathname = "../Repoter/"
+		poretername = "151_selenium_UI_report.htm"
+		filepath = pathname+nowtime+'__'+poretername
+		with open(filepath,"wb") as f:
+			HTMLTestRunnerNew.HTMLTestRunner(
+				stream=f,
+				verbosity=2,
+				title="151--声像情报分析系统测试报告",
+				description="声像情报分析系统UI自动化测试"
+			).run(mysuit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

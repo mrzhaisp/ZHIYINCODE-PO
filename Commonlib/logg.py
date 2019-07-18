@@ -3,29 +3,19 @@
 import logging
 import time as t
 
+
 class LoggIn:
-    def logg_out(self, logincontent):
-        """输出日志的类"""
-        # 定义文件
-        logFile = logging.FileHandler("../Logs/system.log", 'a', encoding='utf-8')
+	"""输出日志内容"""
+	def logg_out(self, logincontent):
+		"""输出日志的类"""
+		# 定义文件
+		logFile = logging.FileHandler("../Logs/system.log", 'a', encoding='utf-8')
 
-        # log格式
-        fmt = logging.Formatter(fmt='%(asctime)s-%(name)s-%(levelname)s-%(module)s:%(message)s')
-        logFile.setFormatter(fmt)
+		# log格式
+		fmt = logging.Formatter(fmt='%(asctime)s-%(name)s-%(levelname)s-%(module)s:%(message)s')
+		logFile.setFormatter(fmt)
 
-        # 定义log
-        logger1 = logging.Logger('logTest', level=logging.DEBUG)
-        logger1.addHandler(logFile)
-        logger1.info(logincontent)
-
-
-
-
-
-
-
-
-
-
-
-
+		# 定义log
+		logger1 = logging.Logger('logTest', level=logging.DEBUG)
+		logger1.addHandler(logFile)
+		logger1.info(logincontent)
