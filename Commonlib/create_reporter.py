@@ -1,16 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import HTMLTestRunnerNew
-import time as t
-nowtime = t.strftime("%Y%m%d.%H.%M.%S")
 
 class CreateReporter:
 	"""制作测试报告"""
 	def createreport(self,mysuit):
-		# filepath = "../Repoter/151_selenium_UI_report.htm"
-		pathname = "../Repoter/"
-		poretername = "151_selenium_UI_report.htm"
-		filepath = pathname+nowtime+'__'+poretername
+		filepath = "../Reporter/151_selenium_UI_report.htm"
+		# pathname = "../Reporter/"
+		# poretername = "151_selenium_UI_report.htm"
+		# filepath = pathname+'__'+poretername
 		with open(filepath,"wb") as f:
 			HTMLTestRunnerNew.HTMLTestRunner(
 				stream=f,

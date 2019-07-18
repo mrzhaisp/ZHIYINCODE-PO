@@ -16,7 +16,7 @@ mail_title = '主题：声像情报融合分析平台UI自动化测试报告'
 
 
 class SendEmail():
-    def send_mail(self, filepath):
+    def sendEmail(self, filepath):
         # 创建一个带附件的实例
         message = MIMEMultipart()
         message['From'] = sender
@@ -48,4 +48,8 @@ class SendEmail():
         smtpObj.connect(smtpserver)
         smtpObj.login(username, password)
         smtpObj.sendmail(sender, receiver, message.as_string())
+        print("邮件发送成功！！！")
         smtpObj.quit()
+
+# s = SendEmail()
+# s.sendEmail("../Reporter/151_selenium_UI_report.htm")

@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a9c07b-6932-415a-99d8-85931e78a0ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Commonlib/find_new_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Commonlib/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Runallcase/run_all_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test-copy/find_new_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/commonlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/commonlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/logg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/logg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commonlib/create_reporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/create_reporter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commonlib/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/send_email.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/system.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/system.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repoter/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/create_reporter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testsuit/test_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test-copy/test_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repoter/20190718.11.46.44__151_selenium_UI_report.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/151_selenium_UI_report.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repoter/20190718.11.48.58__151_selenium_UI_report.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repoter/20190718.11.55.17__151_selenium_UI_report.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runallcase/run_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runallcase/run_all_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test-copy/find_new_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test-copy/find_new_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testsuit/a_login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testsuit/a_login_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,25 +23,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Page/Bussiness/login_bussiness.py">
+        <entry file="file://$PROJECT_DIR$/Testsuit/a_login_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="172">
+              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding>
-                <element signature="e#46#90#0" expanded="true" />
-                <element signature="e#226#258#0" />
-                <element signature="e#494#535#0" />
-                <element signature="e#614#634#0" />
+                <element signature="e#46#61#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Logs/system.log">
+        <entry file="file://$PROJECT_DIR$/Runallcase/run_all_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="130" column="64" selection-start-line="130" selection-start-column="57" selection-end-line="130" selection-end-column="64" />
+            <state relative-caret-position="87">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commonlib/send_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="618">
+              <caret line="54" column="53" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="53" />
+              <folding>
+                <element signature="e#46#60#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,6 +73,9 @@
       <find>tryText</find>
       <find>common</find>
       <find>test_login</find>
+      <find>生成测试报告存入</find>
+      <find>filepath</find>
+      <find>login</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,27 +118,27 @@
         <option value="$PROJECT_DIR$/Page/Handle/login_handle.py" />
         <option value="$PROJECT_DIR$/Data/data.json" />
         <option value="$PROJECT_DIR$/Commonlib/read_json.py" />
-        <option value="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" />
         <option value="$PROJECT_DIR$/Data/login_data.json" />
         <option value="$PROJECT_DIR$/Commonlib/Loggin.py" />
         <option value="$PROJECT_DIR$/Commonlib/loggin.py" />
         <option value="$PROJECT_DIR$/Testsuit/test_log.py" />
-        <option value="$PROJECT_DIR$/Testsuit/a_login_test.py" />
         <option value="$PROJECT_DIR$/Commonlib/base_driver.py" />
-        <option value="$PROJECT_DIR$/Logs/system.log" />
         <option value="$PROJECT_DIR$/Commonlib/commonlib.py" />
         <option value="$PROJECT_DIR$/Commonlib/logg.py" />
+        <option value="$PROJECT_DIR$/Commonlib/find_new_file.py" />
+        <option value="$PROJECT_DIR$/Logs/system.log" />
+        <option value="$PROJECT_DIR$/Testsuit/a_login_test.py" />
+        <option value="$PROJECT_DIR$/Commonlib/create_reporter.py" />
         <option value="$PROJECT_DIR$/Test-copy/find_new_file.py" />
         <option value="$PROJECT_DIR$/Commonlib/send_email.py" />
-        <option value="$PROJECT_DIR$/Commonlib/create_reporter.py" />
-        <option value="$PROJECT_DIR$/Commonlib/find_new_file.py" />
+        <option value="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" />
         <option value="$PROJECT_DIR$/Runallcase/run_all_case.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-18" />
+    <option name="x" value="1953" />
+    <option name="y" value="-10" />
     <option name="width" value="1874" />
     <option name="height" value="1092" />
   </component>
@@ -190,7 +203,7 @@
             <path>
               <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
-              <item name="Repoter" type="462c0819:PsiDirectoryNode" />
+              <item name="Reporter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
@@ -217,7 +230,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Runallcase/run_all_case.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Commonlib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -231,6 +244,7 @@
       <recent name="C:\Users\Test\PoTestProject" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Test\ZHIYINCODE-PO\Commonlib" />
       <recent name="C:\Users\Test\POTESTPROJECT\v3\script" />
       <recent name="C:\Users\Test\POTESTPROJECT" />
     </key>
@@ -314,15 +328,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="send_email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="POTESTPROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Commonlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Commonlib/send_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.create-repoter" />
       <item itemvalue="Python.find_new_file" />
       <item itemvalue="Python.find_new_file (1)" />
+      <item itemvalue="Python.send_email" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.find_new_file (1)" />
+        <item itemvalue="Python.send_email" />
         <item itemvalue="Python.find_new_file" />
+        <item itemvalue="Python.find_new_file (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +378,7 @@
       <workItem from="1563238446284" duration="16708000" />
       <workItem from="1563265019667" duration="4566000" />
       <workItem from="1563325506826" duration="26738000" />
-      <workItem from="1563411054043" duration="13410000" />
+      <workItem from="1563411054043" duration="16041000" />
     </task>
     <servers />
   </component>
@@ -377,7 +415,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84107000" />
+    <option name="totallyTimeSpent" value="86738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,15 +427,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="1925" y="95" width="1874" height="1092" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29664806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32858709" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33406353" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.713034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41254124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,7 +467,7 @@
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login_001_Test.coverage" NAME="login-001-Test Coverage Results" MODIFIED="1563356566287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$error_pwd.coverage" NAME="error_pwd Coverage Results" MODIFIED="1563163266968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1563355887733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$create_repoter.coverage" NAME="create-repoter Coverage Results" MODIFIED="1563422117197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$create_repoter.coverage" NAME="create-repoter Coverage Results" MODIFIED="1563431330804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_login_py__2_.coverage" NAME="Unittests in test_login.py (2) Coverage Results" MODIFIED="1563177697165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/script" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_for_test_add_TestAdd_test_add.coverage" NAME="Unittests for test_add.TestAdd.test_add Coverage Results" MODIFIED="1563179077040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddt" />
     <SUITE FILE_PATH="coverage/PoTestProject$test.coverage" NAME="test Coverage Results" MODIFIED="1563247930557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v2" />
@@ -437,6 +475,7 @@
     <SUITE FILE_PATH="coverage/PoTestProject$Unittests_in_a_login_py.coverage" NAME="Unittests in a_login.py Coverage Results" MODIFIED="1563264053758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_add_py.coverage" NAME="Unittests in test_add.py Coverage Results" MODIFIED="1563179651039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddt" />
     <SUITE FILE_PATH="coverage/PoTestProject$Unittests_for_test_login_TestCase.coverage" NAME="Unittests for test_login.TestCase Coverage Results" MODIFIED="1563249299611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/AllCase" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1563430816677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_login_py__1_.coverage" NAME="Unittests in test_login.py (1) Coverage Results" MODIFIED="1563181504250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/AllCase" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1563163006818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PoTestProject$login_business.coverage" NAME="login_business Coverage Results" MODIFIED="1563264877675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
@@ -448,7 +487,7 @@
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_run_all_case_py.coverage" NAME="Unittests in run_all_case.py Coverage Results" MODIFIED="1563413297159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
     <SUITE FILE_PATH="coverage/PoTestProject$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1563247994741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/utils" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login001_test.coverage" NAME="login001_test Coverage Results" MODIFIED="1563333872215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$find_new_file.coverage" NAME="find_new_file Coverage Results" MODIFIED="1563416464570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$find_new_file.coverage" NAME="find_new_file Coverage Results" MODIFIED="1563430059060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BasePage.py" />
@@ -537,32 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Repoter/151_selenium_UI_report.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5822#5826#0" expanded="true" />
-            <element signature="e#6628#6632#0" expanded="true" />
-            <element signature="e#6863#6869#1" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testsuit/a_login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="e#46#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Commonlib/logg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -587,16 +600,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Commonlib/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#46#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Commonlib/commonlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -607,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test-copy/find_new_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Commonlib/find_new_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -621,45 +617,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/system.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="42" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reporter/151_selenium_UI_report.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-copy/find_new_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" selection-start-line="14" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/151_selenium_UI_report.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Commonlib/create_reporter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        <state relative-caret-position="300">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Bussiness/login_bussiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#46#70#0" expanded="true" />
+            <element signature="e#46#90#0" expanded="true" />
+            <element signature="e#226#258#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/a_login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="54" column="53" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="53" />
+          <folding>
+            <element signature="e#46#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runallcase/run_all_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="43" />
-          <folding>
-            <element signature="e#46#61#0" expanded="true" />
-            <element signature="e#1012#1150#0" />
-            <element signature="e#839#859#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Bussiness/login_bussiness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#46#90#0" expanded="true" />
-            <element signature="e#226#258#0" />
-            <element signature="e#494#535#0" />
-            <element signature="e#614#634#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/system.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="130" column="64" selection-start-line="130" selection-start-column="57" selection-end-line="130" selection-end-column="64" />
+        <state relative-caret-position="87">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -21,14 +21,14 @@ class LoginTest(unittest.TestCase):
 		self.dr = BaseDriver().getdriver()
 		self.common = Commonlib(self.dr)
 		self.lo = LoggIn()
-		self.lo.logg_out("打开浏览器运行--%s--这个类"%LoginTest)
+		self.lo.logg_out("------------->打开浏览器运行--%s--这个类"%LoginTest)
 		self.common.solv_log_waring()
 		self.businesslogin = LoginBussiness(self.dr)
 
 	def tearDown(self) -> None:
 		self.common.wait_time(2)
 		self.common.quit_broswer()
-		self.lo.logg_out("关闭浏览器")
+		self.lo.logg_out(">-----------关闭浏览器")
 
 	@parameterized.expand(bulid_data)
 	def test_login(self,username,pwd,expect,is_sucess):
