@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import json
 
-
 class BulidDat:
 	def __init__(self, file_path=None):
 		if file_path == None:
@@ -24,5 +23,3 @@ class BulidDat:
 			resultlist.append((obj.get(one), obj.get(two), obj.get(sec), obj.get(fou)))
 		return resultlist
 
-# b = BulidDat()
-# b.get_value("username","pwd","expect","is_sucess")

@@ -1,51 +1,41 @@
-2019-07-18 13:52:19,892-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 13:52:32,049-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 13:52:34,402-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 13:52:39,973-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 13:52:52,058-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 13:52:54,374-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 13:52:59,438-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 13:52:59,445-logTest-INFO-logg:发送最新报告文件为-->../Repoter/20190718.13.52.19__151_selenium_UI_report.htm
-2019-07-18 13:56:43,021-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 13:56:56,765-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 13:56:59,027-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 13:57:04,100-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 13:57:16,115-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 13:57:18,487-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 13:57:23,545-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 13:58:58,504-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 13:59:10,593-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 13:59:12,962-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 13:59:18,029-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 13:59:29,855-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 13:59:32,130-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 13:59:37,160-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:21:26,485-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 14:21:38,133-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:21:40,408-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 14:21:46,070-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:21:58,053-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:22:00,379-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 14:22:05,441-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:23:54,512-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 14:24:06,431-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:24:08,762-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 14:24:13,813-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:24:25,912-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:24:28,213-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 14:24:33,953-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:27:31,857-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 14:27:44,322-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:27:46,647-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 14:27:51,713-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:28:03,709-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:28:06,020-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 14:28:11,213-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:29:03,473-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:29:05,789-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-18 14:29:10,983-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:29:23,740-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-18 14:29:26,126-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-18 14:29:31,924-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-18 14:29:31,926-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-18 14:29:37,305-logTest-INFO-logg:发送测试报告邮件！已完成
+2019-07-19 11:06:55,846-logTest-INFO-logg:打开浏览器
+2019-07-19 11:07:00,703-logTest-INFO-logg:打开百度
+2019-07-19 11:51:21,738-logTest-INFO-logg:打开浏览器
+2019-07-19 11:51:26,479-logTest-INFO-logg:打开百度
+2019-07-19 13:43:11,884-logTest-INFO-logg:生成测试报告存入../Testsuit/
+2019-07-19 13:45:09,225-logTest-INFO-logg:生成测试报告存入../Testsuit/
+2019-07-19 13:49:15,622-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 13:49:20,513-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-19 13:49:28,614-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 13:49:36,716-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 13:49:41,555-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-19 13:49:49,141-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 13:59:39,156-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 13:59:45,479-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-19 13:59:53,038-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 14:00:00,789-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 14:00:06,633-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-19 14:00:14,847-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 14:00:50,197-logTest-INFO-logg:生成测试报告存入../Testsuit/
+2019-07-19 14:51:27,177-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 14:51:45,056-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 14:55:20,984-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 14:55:33,840-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 14:56:19,951-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 14:56:57,608-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 14:57:14,813-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 15:01:54,481-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 15:01:59,312-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-19 15:02:06,955-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 15:02:14,648-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 15:02:30,098-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->None
+2019-07-19 15:02:38,032-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 15:02:45,788-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 15:03:03,280-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-19 15:03:12,650-logTest-INFO-logg:生成测试报告存入../Testsuit/
+2019-07-19 15:05:31,387-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 15:05:38,217-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-19 15:05:45,885-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-19 15:05:53,648-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-19 15:06:00,465-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-19 15:06:08,031-logTest-INFO-logg:>-----------关闭浏览器

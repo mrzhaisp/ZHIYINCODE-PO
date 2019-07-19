@@ -2,14 +2,13 @@
 # -*- coding: utf-8 -*-
 from selenium import webdriver
 import time as t
+
 class BaseDriver:
 	"""实例化webdriver"""
+	@classmethod
 	def getdriver(self):
 		self.driver = webdriver.Chrome()
-		self.driver.maximize_window()
-		# self.driver.implicitly_wait(30)
-		self.driver.get("http://10.168.103.151/web/#/login")
-		t.sleep(5)
+		t.sleep(3)
 		return self.driver
 
 

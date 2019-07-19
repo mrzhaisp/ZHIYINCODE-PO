@@ -6,6 +6,7 @@ import time as t
 
 class LoggIn:
 	"""输出日志内容"""
+	@classmethod
 	def logg_out(self, logincontent):
 		"""输出日志的类"""
 		# 定义文件

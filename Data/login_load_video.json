@@ -1,0 +1,15 @@
+{
+  "login_sucess": {
+    "username": "admin",
+    "pwd": "111111",
+    "expect": "视频管理",
+    "is_sucess": true
+  },
+
+  "login_pwd_error": {
+    "username": "admin",
+    "pwd": "112233",
+    "expect": "声像情报分析系统",
+    "is_sucess": false
+  }
+}

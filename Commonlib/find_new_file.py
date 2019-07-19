@@ -4,6 +4,7 @@ import os
 # from Commonlib.send_email import SendEmail
 # s = SendEmail()
 class FindNewFile:
+	@classmethod
 	def find_file(self,file_path_dir):
 		report_dir = file_path_dir
 		allreports = os.listdir(report_dir)

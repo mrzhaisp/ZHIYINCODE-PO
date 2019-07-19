@@ -4,6 +4,8 @@ import HTMLTestRunnerNew
 
 class CreateReporter:
 	"""制作测试报告"""
+
+	@classmethod
 	def createreport(self,mysuit):
 		filepath = "../Reporter/151_selenium_UI_report.htm"
 		# pathname = "../Reporter/"

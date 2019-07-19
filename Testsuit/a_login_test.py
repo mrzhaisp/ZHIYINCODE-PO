@@ -8,12 +8,17 @@ from Commonlib.base_driver import BaseDriver
 from Page.Bussiness.login_bussiness import LoginBussiness
 from Commonlib.read_json import BulidDat
 
-buliddata = BulidDat("../Data/login_data.json")
+buliddata = BulidDat("../Data/login_load_video.json")
 def bulid_data():
 	"""定义读取json数据应用到测试案例里"""
 	datas = buliddata.get_value("username","pwd","expect","is_sucess")
 	return datas
 
+# def bulid_data():
+# 	return [
+# 		("admin","111111","声像情报融合分析平台",True),
+# 		("admin","11223344","声像情报分析系统",False),
+# 	]
 
 class LoginTest(unittest.TestCase):
 	"""登录测试案例正例反例"""
@@ -26,13 +31,13 @@ class LoginTest(unittest.TestCase):
 		self.businesslogin = LoginBussiness(self.dr)
 
 	def tearDown(self) -> None:
-		self.common.wait_time(2)
+		self.common.wait_time(5)
 		self.common.quit_broswer()
 		self.lo.logg_out(">-----------关闭浏览器")
 
 	@parameterized.expand(bulid_data)
 	def test_login(self,username,pwd,expect,is_sucess):
-		"""登录正例和反例  登录成功，拿到"声像情报融合分析平台"，不成功则停留在主页 '声像情报分析系统'"""
+		"""登录"知音晓视"正例和反例  登录成功，拿到"声像情报融合分析平台"，不成功则停留在主页 '声像情报分析系统'"""
 		try:
 			self.businesslogin.logoin(username,pwd)
 			if is_sucess:
