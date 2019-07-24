@@ -1,41 +1,311 @@
-2019-07-19 11:06:55,846-logTest-INFO-logg:打开浏览器
-2019-07-19 11:07:00,703-logTest-INFO-logg:打开百度
-2019-07-19 11:51:21,738-logTest-INFO-logg:打开浏览器
-2019-07-19 11:51:26,479-logTest-INFO-logg:打开百度
-2019-07-19 13:43:11,884-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-19 13:45:09,225-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-19 13:49:15,622-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 13:49:20,513-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-19 13:49:28,614-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 13:49:36,716-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 13:49:41,555-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-19 13:49:49,141-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 13:59:39,156-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 13:59:45,479-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-19 13:59:53,038-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 14:00:00,789-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 14:00:06,633-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-19 14:00:14,847-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 14:00:50,197-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-19 14:51:27,177-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 14:51:45,056-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 14:55:20,984-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 14:55:33,840-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 14:56:19,951-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 14:56:57,608-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 14:57:14,813-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 15:01:54,481-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 15:01:59,312-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-19 15:02:06,955-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 15:02:14,648-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 15:02:30,098-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->None
-2019-07-19 15:02:38,032-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 15:02:45,788-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 15:03:03,280-logTest-INFO-logg:准备登录上传视频登录页面
-2019-07-19 15:03:12,650-logTest-INFO-logg:生成测试报告存入../Testsuit/
-2019-07-19 15:05:31,387-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 15:05:38,217-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
-2019-07-19 15:05:45,885-logTest-INFO-logg:>-----------关闭浏览器
-2019-07-19 15:05:53,648-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
-2019-07-19 15:06:00,465-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
-2019-07-19 15:06:08,031-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-22 15:04:59,822-logTest-INFO-logg:登录后台上传视频
+2019-07-22 15:05:07,776-logTest-INFO-logg:点击上传视频
+2019-07-22 15:05:07,828-logTest-INFO-logg:加载上传视频路径
+2019-07-22 15:38:40,328-logTest-INFO-logg:登录后台上传视频
+2019-07-22 15:38:47,502-logTest-INFO-logg:点击上传视频
+2019-07-22 16:25:11,279-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:25:18,325-logTest-INFO-logg:点击上传视频
+2019-07-22 16:25:23,642-logTest-INFO-logg:选择外网资源
+2019-07-22 16:25:23,750-logTest-INFO-logg:选择频道分类
+2019-07-22 16:25:23,839-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:26:50,647-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:26:58,499-logTest-INFO-logg:点击上传视频
+2019-07-22 16:27:03,033-logTest-INFO-logg:选择外网资源
+2019-07-22 16:27:03,089-logTest-INFO-logg:选择频道分类
+2019-07-22 16:27:05,190-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:27:07,322-logTest-INFO-logg:选择语言栏目
+2019-07-22 16:27:09,430-logTest-INFO-logg:随机选择语言
+2019-07-22 16:27:11,575-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-22 16:27:15,805-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-22 16:28:17,223-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:28:24,246-logTest-INFO-logg:点击上传视频
+2019-07-22 16:28:28,584-logTest-INFO-logg:选择外网资源
+2019-07-22 16:28:28,701-logTest-INFO-logg:选择频道分类
+2019-07-22 16:28:30,809-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:29:22,490-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:29:30,362-logTest-INFO-logg:点击上传视频
+2019-07-22 16:29:34,401-logTest-INFO-logg:选择外网资源
+2019-07-22 16:29:34,459-logTest-INFO-logg:选择频道分类
+2019-07-22 16:29:36,562-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:31:45,549-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:31:53,858-logTest-INFO-logg:点击上传视频
+2019-07-22 16:31:58,206-logTest-INFO-logg:选择外网资源
+2019-07-22 16:31:58,349-logTest-INFO-logg:选择频道分类
+2019-07-22 16:32:00,446-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:32:03,556-logTest-INFO-logg:选择语言栏目
+2019-07-22 16:32:05,681-logTest-INFO-logg:随机选择语言
+2019-07-22 16:32:07,816-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-22 16:32:13,176-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-22 16:32:54,328-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:33:01,769-logTest-INFO-logg:点击上传视频
+2019-07-22 16:33:06,331-logTest-INFO-logg:选择外网资源
+2019-07-22 16:33:06,516-logTest-INFO-logg:选择频道分类
+2019-07-22 16:33:08,627-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:33:11,739-logTest-INFO-logg:选择语言栏目
+2019-07-22 16:33:13,861-logTest-INFO-logg:随机选择语言
+2019-07-22 16:33:15,971-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-22 16:33:21,332-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-22 16:33:53,664-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:34:01,101-logTest-INFO-logg:点击上传视频
+2019-07-22 16:34:05,328-logTest-INFO-logg:选择外网资源
+2019-07-22 16:34:05,431-logTest-INFO-logg:选择频道分类
+2019-07-22 16:34:07,565-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:34:10,687-logTest-INFO-logg:选择语言栏目
+2019-07-22 16:34:12,803-logTest-INFO-logg:随机选择语言
+2019-07-22 16:34:14,983-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-22 16:34:20,298-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-22 16:34:58,180-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:35:07,276-logTest-INFO-logg:点击上传视频
+2019-07-22 16:35:11,482-logTest-INFO-logg:选择外网资源
+2019-07-22 16:35:11,579-logTest-INFO-logg:选择频道分类
+2019-07-22 16:35:13,677-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:35:16,782-logTest-INFO-logg:选择语言栏目
+2019-07-22 16:35:18,898-logTest-INFO-logg:随机选择语言
+2019-07-22 16:35:21,006-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-22 16:35:26,306-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-22 16:35:30,555-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-22 16:37:44,125-logTest-INFO-logg:登录后台上传视频
+2019-07-22 16:37:51,164-logTest-INFO-logg:点击上传视频
+2019-07-22 16:37:55,380-logTest-INFO-logg:选择外网资源
+2019-07-22 16:37:55,506-logTest-INFO-logg:选择频道分类
+2019-07-22 16:37:57,647-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-22 16:38:00,750-logTest-INFO-logg:选择语言栏目
+2019-07-22 16:38:02,862-logTest-INFO-logg:随机选择语言
+2019-07-22 16:38:05,003-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-22 16:38:10,378-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-22 16:38:14,724-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-22 16:38:19,262-logTest-INFO-logg:导入视频按钮
+2019-07-22 16:38:21,421-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-22 16:38:25,640-logTest-INFO-logg:视频上传完毕
+2019-07-23 09:22:18,506-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:22:25,338-logTest-INFO-logg:点击上传视频
+2019-07-23 09:22:33,789-logTest-INFO-logg:选择外网资源
+2019-07-23 09:22:33,827-logTest-INFO-logg:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//*[contains(text(),'外网资源')]"}
+  (Session info: chrome=68.0.3440.75)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-07-23 09:23:30,673-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:23:37,909-logTest-INFO-logg:点击上传视频
+2019-07-23 09:23:44,030-logTest-INFO-logg:选择外网资源
+2019-07-23 09:23:44,120-logTest-INFO-logg:选择频道分类
+2019-07-23 09:23:46,247-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 09:23:49,343-logTest-INFO-logg:选择语言栏目
+2019-07-23 09:23:51,419-logTest-INFO-logg:随机选择语言
+2019-07-23 09:23:53,558-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 09:23:58,795-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 09:24:03,039-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 09:24:07,397-logTest-INFO-logg:导入视频按钮
+2019-07-23 09:24:09,540-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 09:24:14,411-logTest-INFO-logg:视频上传完毕
+2019-07-23 09:28:46,652-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:28:53,507-logTest-INFO-logg:点击上传视频
+2019-07-23 09:28:59,941-logTest-INFO-logg:选择外网资源
+2019-07-23 09:29:00,013-logTest-INFO-logg:选择频道分类
+2019-07-23 09:29:02,124-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 09:29:05,219-logTest-INFO-logg:选择语言栏目
+2019-07-23 09:29:07,278-logTest-INFO-logg:随机选择语言
+2019-07-23 09:29:09,452-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 09:29:14,839-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 09:29:19,145-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 09:29:23,565-logTest-INFO-logg:导入视频按钮
+2019-07-23 09:29:25,712-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 09:29:29,858-logTest-INFO-logg:视频上传完毕
+2019-07-23 09:29:53,080-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:30:00,599-logTest-INFO-logg:点击上传视频
+2019-07-23 09:30:06,728-logTest-INFO-logg:选择外网资源
+2019-07-23 09:30:06,826-logTest-INFO-logg:选择频道分类
+2019-07-23 09:30:08,947-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 09:30:12,065-logTest-INFO-logg:选择语言栏目
+2019-07-23 09:30:14,223-logTest-INFO-logg:随机选择语言
+2019-07-23 09:30:16,397-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 09:30:21,731-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 09:30:25,962-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 09:30:30,332-logTest-INFO-logg:导入视频按钮
+2019-07-23 09:30:32,465-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 09:30:36,581-logTest-INFO-logg:视频上传完毕
+2019-07-23 09:30:51,529-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:30:58,492-logTest-INFO-logg:点击上传视频
+2019-07-23 09:31:00,548-logTest-INFO-logg:up_load_erroe_type_video() missing 2 required positional arguments: 'username' and 'pwd'
+2019-07-23 09:55:00,510-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:55:07,346-logTest-INFO-logg:点击上传视频
+2019-07-23 09:55:09,394-logTest-INFO-logg:加载上传视频路径
+2019-07-23 09:56:34,243-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:56:42,602-logTest-INFO-logg:点击上传视频
+2019-07-23 09:56:48,356-logTest-INFO-logg:选择外网资源
+2019-07-23 09:56:48,473-logTest-INFO-logg:选择频道分类
+2019-07-23 09:56:50,604-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 09:56:53,742-logTest-INFO-logg:选择语言栏目
+2019-07-23 09:56:55,853-logTest-INFO-logg:随机选择语言
+2019-07-23 09:56:57,955-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 09:57:03,219-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 09:57:07,449-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 09:57:11,805-logTest-INFO-logg:导入视频按钮
+2019-07-23 09:57:13,955-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 09:57:18,137-logTest-INFO-logg:视频上传完毕
+2019-07-23 09:57:32,987-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 09:57:40,011-logTest-INFO-logg:点击上传视频
+2019-07-23 09:57:42,063-logTest-INFO-logg:加载上传视频路径
+2019-07-23 09:57:45,689-logTest-INFO-logg:上传视频格式不正确，弹出弹框文字为--->上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !
+2019-07-23 13:27:15,363-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 13:27:23,568-logTest-INFO-logg:点击上传视频
+2019-07-23 13:27:25,628-logTest-INFO-logg:加载上传视频路径
+2019-07-23 13:27:30,129-logTest-INFO-logg:上传视频格式不正确，弹出弹框文字为--->上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !
+2019-07-23 13:27:43,107-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 13:27:51,157-logTest-INFO-logg:点击上传视频
+2019-07-23 13:27:56,977-logTest-INFO-logg:选择外网资源
+2019-07-23 13:27:57,082-logTest-INFO-logg:选择频道分类
+2019-07-23 13:27:59,224-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 13:28:02,349-logTest-INFO-logg:选择语言栏目
+2019-07-23 13:28:04,465-logTest-INFO-logg:随机选择语言
+2019-07-23 13:28:06,594-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 13:28:11,991-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 13:28:16,328-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 13:28:20,793-logTest-INFO-logg:导入视频按钮
+2019-07-23 13:28:22,907-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 13:28:27,061-logTest-INFO-logg:视频上传完毕
+2019-07-23 14:54:27,086-logTest-INFO-logg:登录音视频前台
+2019-07-23 14:54:35,870-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:01:10,271-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:01:19,769-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:12:21,322-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:12:30,121-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:13:00,064-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:13:09,018-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:15:22,041-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:15:30,804-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:16:24,023-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:16:33,583-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:17:23,946-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:17:33,236-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:43:14,695-logTest-INFO-logg:登录音视频前台
+2019-07-23 15:43:23,741-logTest-INFO-logg:打开音视频栏目
+2019-07-23 15:43:23,778-logTest-INFO-logg:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//body/div[1]/descendant::a[2]"}
+  (Session info: chrome=68.0.3440.75)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-07-23 15:49:31,372-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-23 15:49:38,194-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-23 15:49:46,336-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-23 15:49:54,021-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-23 15:50:00,941-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-23 15:50:09,162-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-23 15:51:04,740-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-23 15:51:23,594-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-23 15:52:07,436-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 15:52:15,733-logTest-INFO-logg:点击上传视频
+2019-07-23 15:52:23,237-logTest-INFO-logg:选择外网资源
+2019-07-23 15:52:23,357-logTest-INFO-logg:选择频道分类
+2019-07-23 15:52:25,478-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 15:52:28,602-logTest-INFO-logg:选择语言栏目
+2019-07-23 15:52:30,778-logTest-INFO-logg:随机选择语言
+2019-07-23 15:52:32,876-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 15:52:38,208-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 15:52:42,514-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 15:52:47,007-logTest-INFO-logg:导入视频按钮
+2019-07-23 15:52:49,104-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 15:52:53,306-logTest-INFO-logg:视频上传完毕
+2019-07-23 15:53:08,445-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 15:53:16,329-logTest-INFO-logg:点击上传视频
+2019-07-23 15:53:18,392-logTest-INFO-logg:加载上传视频路径
+2019-07-23 15:53:22,119-logTest-INFO-logg:上传视频格式不正确，弹出弹框文字为--->上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !
+2019-07-23 16:04:48,778-logTest-INFO-logg:登录音视频前台
+2019-07-23 16:04:58,498-logTest-INFO-logg:打开音视频栏目
+2019-07-23 16:05:52,262-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-23 16:05:59,463-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-23 16:06:07,532-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-23 16:06:15,240-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-23 16:06:22,909-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-23 16:06:31,173-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-23 16:06:38,913-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-23 16:06:56,574-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-23 16:07:14,692-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 16:07:23,165-logTest-INFO-logg:点击上传视频
+2019-07-23 16:07:29,481-logTest-INFO-logg:选择外网资源
+2019-07-23 16:07:29,620-logTest-INFO-logg:选择频道分类
+2019-07-23 16:07:31,729-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 16:07:34,771-logTest-INFO-logg:Message: no such element: Unable to locate element: {"method":"xpath","selector":".//*[contains(text(),'其他')]"}
+  (Session info: chrome=68.0.3440.75)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-07-23 16:08:05,915-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 16:08:14,864-logTest-INFO-logg:点击上传视频
+2019-07-23 16:08:16,922-logTest-INFO-logg:加载上传视频路径
+2019-07-23 16:08:20,759-logTest-INFO-logg:上传视频格式不正确，弹出弹框文字为--->上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !
+2019-07-23 16:08:51,533-logTest-INFO-logg:登录音视频前台
+2019-07-23 16:09:01,289-logTest-INFO-logg:打开音视频栏目
+2019-07-23 16:09:08,688-logTest-INFO-logg:生成测试报告存入../Testsuit/
+2019-07-23 16:15:23,458-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-23 16:15:30,312-logTest-INFO-logg:登录成功后进入主页面，主页面标题为---->声像情报融合分析平台
+2019-07-23 16:15:38,403-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-23 16:15:46,102-logTest-INFO-logg:------------->打开浏览器运行--<class 'a_login_test.LoginTest'>--这个类
+2019-07-23 16:15:52,957-logTest-INFO-logg:密码错误登录失败停留在登录页面文字为--->声像情报分析系统
+2019-07-23 16:16:01,024-logTest-INFO-logg:>-----------关闭浏览器
+2019-07-23 16:16:08,850-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-23 16:16:26,690-logTest-INFO-logg:准备登录上传视频登录页面
+2019-07-23 16:16:44,251-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 16:16:52,225-logTest-INFO-logg:点击上传视频
+2019-07-23 16:16:58,186-logTest-INFO-logg:选择外网资源
+2019-07-23 16:16:58,291-logTest-INFO-logg:选择频道分类
+2019-07-23 16:17:00,406-logTest-INFO-logg:随机选取一个栏目--人工智能、电子对抗、区块链
+2019-07-23 16:17:03,502-logTest-INFO-logg:选择语言栏目
+2019-07-23 16:17:05,563-logTest-INFO-logg:随机选择语言
+2019-07-23 16:17:07,662-logTest-INFO-logg:清除制作日期，重新输入当期日期
+2019-07-23 16:17:12,973-logTest-INFO-logg:清除上传日期，重新上传当天日期
+2019-07-23 16:17:17,275-logTest-INFO-logg:点击index首页切换,点击摘要输入框，输入内容摘要
+2019-07-23 16:17:21,692-logTest-INFO-logg:导入视频按钮
+2019-07-23 16:17:23,817-logTest-INFO-logg:关闭上传视频弹窗按钮
+2019-07-23 16:17:28,011-logTest-INFO-logg:视频上传完毕
+2019-07-23 16:18:00,956-logTest-INFO-logg:打开浏览器，登录后台上传视频
+2019-07-23 16:18:09,675-logTest-INFO-logg:点击上传视频
+2019-07-23 16:18:11,726-logTest-INFO-logg:加载上传视频路径
+2019-07-23 16:18:15,679-logTest-INFO-logg:上传视频格式不正确，弹出弹框文字为--->上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !
+2019-07-23 16:18:47,770-logTest-INFO-logg:登录音视频前台
+2019-07-23 16:18:57,548-logTest-INFO-logg:打开音视频栏目
+2019-07-23 16:19:05,062-logTest-INFO-logg:生成测试报告存入../Testsuit/
+2019-07-24 10:43:27,037-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 10:48:02,473-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:22:28,120-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:23:25,941-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:24:43,701-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:43:55,792-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:44:39,319-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:46:07,918-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:46:50,310-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:48:45,815-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 13:50:21,099-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 14:24:40,675-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 14:25:37,154-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 14:25:39,394-logTest-INFO-logg:['知名人物', '未知人物'] != "['知名人物','未知人物']"
+2019-07-24 14:56:57,312-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 14:58:15,924-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 14:59:39,426-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:00:21,827-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:05:34,297-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:29:45,699-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:30:35,355-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:31:38,083-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:42:20,789-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 15:43:05,074-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 16:54:58,035-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 16:55:00,473-logTest-INFO-logg:Message: element not visible
+  (Session info: chrome=68.0.3440.75)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2019-07-24 16:55:18,578-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 16:55:20,845-logTest-INFO-logg:'NoneType' object has no attribute 'send_keys'
+2019-07-24 17:12:09,328-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:12:32,908-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:16:34,035-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:16:57,490-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:36:35,747-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:37:07,291-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:37:39,100-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:40:49,968-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:41:20,640-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:41:55,012-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:42:07,695-logTest-INFO-logg:'tuple' object has no attribute 'append'
+2019-07-24 17:42:26,126-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:42:38,811-logTest-INFO-logg:'tuple' object has no attribute 'append'
+2019-07-24 17:42:57,148-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:43:27,705-logTest-INFO-logg:点击人物库，切换到人物库首页,
+2019-07-24 17:44:34,200-logTest-INFO-logg:点击人物库，切换到人物库首页,

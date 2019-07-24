@@ -12,7 +12,7 @@ import unittest
 # 		("admin","111111","视频管理",True),
 # 		("admin","11223344","声像情报分析系统",False),
 # 	]
-buliddata = BulidDat("../Data/login_page_data.json")
+buliddata = BulidDat("../Data/b_load_video_login_test.json")
 def bulid_data():
 	"""读取json数据"""
 	datalist = buliddata.get_value("username","pwd","expect","is_sucess")
@@ -45,9 +45,9 @@ class LoadVideoLogin(unittest.TestCase):
 				# textfail = self.busi_loadvd_login.loginhandle.login_fail_text()
 				textfail = self.b.loginhandle.login_fail_text()
 				print("登录失败后停留在登录页面断言为---->%s"%textfail)
+				self.assertEqual(textfail,expect)
 				return textfail
 				#断言  “声像情报分析系统”
-				self.assertEqual(textfail,expect)
 		except Exception as e:
 			self.c.get_screen_shot("test_load_video_login")
 			print(e)

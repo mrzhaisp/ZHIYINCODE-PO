@@ -1,0 +1,18 @@
+{
+  "true_video_type": {
+  "username": "admin",
+    "pwd": "111111",
+    "expect": "本地上传",
+    "is_sucess": true
+
+  },
+
+  "fail_video_type": {
+    "username": "admin",
+    "pwd": "111111",
+    "expect": "上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !",
+    "is_sucess": false
+
+  }
+
+}

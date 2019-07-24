@@ -16,8 +16,11 @@ class LoginBussiness:
 
 	def logoin(self, username, pwd):
 		self.common.open_browser("http://10.168.103.151/web/#/login")
+		self.common.wait_time(1)
 		self.loghandle.input_username(username)
+		self.common.wait_time(1)
 		self.loghandle.input_pwd(pwd)
+		self.common.wait_time(1)
 		self.loghandle.click_btn()
 		t.sleep(5)
 

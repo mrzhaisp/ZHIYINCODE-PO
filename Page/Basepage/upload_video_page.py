@@ -12,8 +12,12 @@ langue = ["中文", "英语", "日语", "俄语", "法语", "德语", "越南语
 
 class UploadVideoPage:
 	"""上传视频的页面"""
-	def __init__(self):
+	def __init__(self,driver):
 		self.driver = driver
+
+	def find_index_ele(self):
+		"""页面空白处"""
+		return self.driver.find_element_by_xpath(".//*[@class='video-import']")
 
 	def find_upload_btn_ele(self):
 		"""登录后台，导入视频的按钮"""
@@ -43,7 +47,7 @@ class UploadVideoPage:
 		"""点击选取语言"""
 		return self.driver.find_element_by_xpath(".//*[contains(text(),'语种')]/following-sibling::div/descendant::input")
 
-	def find_choice_landue_ele(self):
+	def find_choice_langue_ele(self):
 		"""随机选取一种语言"""
 		return self.driver.find_element_by_xpath(".//*[contains(text(),'%s')]" % random.choice(langue))
 
@@ -55,10 +59,6 @@ class UploadVideoPage:
 		"""上传日期"""
 		return self.driver.find_element_by_xpath(".//*[contains(text(),'上传日期')]/following-sibling::div/descendant::input")
 
-	def find_kongbai_ele(self):
-		"""空白处，输入完日期后点击空白处"""
-		return self.driver.find_element_by_xpath(".//*[@class='video-import']")
-
 	def find_content_ele(self):
 		"""内容摘要输入框"""
 		return self.driver.find_element_by_xpath(".//*[contains(text(),'内容摘要')]/following-sibling::div/descendant::textarea")
@@ -67,7 +67,7 @@ class UploadVideoPage:
 		"""导入按钮"""
 		return self.driver.find_element_by_xpath(".//*[text()='导入']")
 
-	def find_alter_ele_ele(self):
+	def find_alter_ele(self):
 		"""上传视频后提示框确定按钮"""
 		return self.driver.find_element_by_xpath(".//body/descendant::span[35]/descendant::span")
 

@@ -1,0 +1,11 @@
+{
+  "person_bank":{
+    "username":"admin",
+    "pwd":"111111",
+    "expect":"['知名人物','未知人物']",
+    "is_sucess": true
+  }
+
+
+
+}

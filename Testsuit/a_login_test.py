@@ -8,7 +8,7 @@ from Commonlib.base_driver import BaseDriver
 from Page.Bussiness.login_bussiness import LoginBussiness
 from Commonlib.read_json import BulidDat
 
-buliddata = BulidDat("../Data/login_load_video.json")
+buliddata = BulidDat("../Data/a_login_test.json")
 def bulid_data():
 	"""定义读取json数据应用到测试案例里"""
 	datas = buliddata.get_value("username","pwd","expect","is_sucess")
@@ -45,17 +45,17 @@ class LoginTest(unittest.TestCase):
 				text = self.businesslogin.loghandle.login_sucess_text()
 				self.lo.logg_out("登录成功后进入主页面，主页面标题为---->%s"%text)
 				print("登录成功后进入主页面，主页面标题为---->%s"%text)
+				self.assertEqual(text,expect )
 				return text
 				#断言  "声像情报融合分析平台"
-				self.assertEqual(text,expect )
 			else:
 				# """登录失败，就停在登录主页"""
 				texttwo = self.businesslogin.loghandle.login_fail_text()
 				self.lo.logg_out("密码错误登录失败停留在登录页面文字为--->%s"%texttwo)
 				print("密码错误登录失败停留在登录页面文字为--->%s"%texttwo)
+				self.assertEqual(texttwo,expect)
 				return texttwo
 				#断言    "声像情报分析系统"
-				self.assertEqual(texttwo,expect)
 		except Exception  as e:
 			self.common.get_screen_shot("test_login")
 

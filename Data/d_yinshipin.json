@@ -1,0 +1,10 @@
+{
+  "yinshipin_lanmu":{
+    "username":"admin",
+    "pwd":"111111",
+    "expect": "['时事热点', '内网自编', '外网资源', '外网资源']",
+    "is_sucess": true
+
+  }
+
+}

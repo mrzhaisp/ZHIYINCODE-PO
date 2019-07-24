@@ -116,9 +116,9 @@ function html_escape(s) {
 <div class='heading'>
 <h1 style="font-family: Microsoft YaHei">151--声像情报分析系统测试报告</h1>
 <p class='attribute'><strong>测试人员 : </strong> Test_Zhai</p>
-<p class='attribute'><strong>开始时间 : </strong> 2019-07-19 15:01:46</p>
-<p class='attribute'><strong>合计耗时 : </strong> 0:01:25.855000</p>
-<p class='attribute'><strong>测试结果 : </strong> 共 4，通过 4，通过率= 100.00%</p>
+<p class='attribute'><strong>开始时间 : </strong> 2019-07-23 16:15:15</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:03:49.346000</p>
+<p class='attribute'><strong>测试结果 : </strong> 共 7，通过 7，通过率= 100.00%</p>
 
 <p class='description'>声像情报分析系统UI自动化测试</p>
 </div>
@@ -127,8 +127,8 @@ function html_escape(s) {
 <p id='show_detail_line'>
 <a class="btn btn-primary" href='javascript:showCase(0)'>概要{ 100.00% }</a>
 <a class="btn btn-danger" href='javascript:showCase(1)'>失败{ 0 }</a>
-<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 4 }</a>
-<a class="btn btn-info" href='javascript:showCase(3)'>所有{ 4 }</a>
+<a class="btn btn-success" href='javascript:showCase(2)'>通过{ 7 }</a>
+<a class="btn btn-info" href='javascript:showCase(3)'>所有{ 7 }</a>
 </p>
 <table id='result_table' class="table table-condensed table-bordered table-hover">
 <colgroup>
@@ -158,7 +158,7 @@ function html_escape(s) {
 </tr>
 
 <tr id='pt1_1' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_login_0_admin: 登录正例和反例  登录成功，拿到"声像情报融合分析平台"，不成功则停留在主页 '声像情报分析系统' [with username='admin', pwd='112233', expect='声像情报分析系统', is_sucess=False]</div></td>
+    <td class='passCase'><div class='testcase'>test_login_0_admin: 登录"知音晓视"正例和反例  登录成功，拿到"声像情报融合分析平台"，不成功则停留在主页 '声像情报分析系统' [with username='admin', pwd='111111', expect='声像情报融合分析平台', is_sucess=True]</div></td>
     <td colspan='5' align='center'>
     <!--默认收起错误信息 -Findyou
     <button id='btn_pt1_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_1'>通过</button>
@@ -168,7 +168,7 @@ function html_escape(s) {
     <div id='div_pt1_1' class="collapse in" align="left">
     <pre>
     
-pt1_1: 密码错误登录失败停留在登录页面文字为---&gt;声像情报分析系统
+pt1_1: 登录成功后进入主页面，主页面标题为----&gt;声像情报融合分析平台
 
 
     </pre>
@@ -177,7 +177,7 @@ pt1_1: 密码错误登录失败停留在登录页面文字为---&gt;声像情报
 </tr>
 
 <tr id='pt1_2' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_login_1_admin: 登录正例和反例  登录成功，拿到"声像情报融合分析平台"，不成功则停留在主页 '声像情报分析系统' [with username='admin', pwd='111111', expect='视频管理', is_sucess=True]</div></td>
+    <td class='passCase'><div class='testcase'>test_login_1_admin: 登录"知音晓视"正例和反例  登录成功，拿到"声像情报融合分析平台"，不成功则停留在主页 '声像情报分析系统' [with username='admin', pwd='1111112', expect='密码不能为空', is_sucess=False]</div></td>
     <td colspan='5' align='center'>
     <!--默认收起错误信息 -Findyou
     <button id='btn_pt1_2' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt1_2'>通过</button>
@@ -187,7 +187,7 @@ pt1_1: 密码错误登录失败停留在登录页面文字为---&gt;声像情报
     <div id='div_pt1_2' class="collapse in" align="left">
     <pre>
     
-pt1_2: 登录成功后进入主页面，主页面标题为----&gt;None
+pt1_2: 密码错误登录失败停留在登录页面文字为---&gt;声像情报分析系统
 
 
     </pre>
@@ -205,7 +205,7 @@ pt1_2: 登录成功后进入主页面，主页面标题为----&gt;None
 </tr>
 
 <tr id='pt2_1' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_load_video_login_0_admin: 登录成功拿到页面文字' 视频管理',登录失败停留在登录页面拿到文字‘声像情报分析系统’ [with username='admin', pwd='111111', expect='声像情报融合分析平台', is_sucess=True]</div></td>
+    <td class='passCase'><div class='testcase'>test_load_video_login_0_admin: 登录成功拿到页面文字' 视频管理',登录失败停留在登录页面拿到文字‘声像情报分析系统’ [with username='admin', pwd='111111', expect='视频管理', is_sucess=True]</div></td>
     <td colspan='5' align='center'>
     <!--默认收起错误信息 -Findyou
     <button id='btn_pt2_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_1'>通过</button>
@@ -224,7 +224,7 @@ pt2_1: 登录成功后断言为------&gt;视频管理
 </tr>
 
 <tr id='pt2_2' class='hiddenRow'>
-    <td class='passCase'><div class='testcase'>test_load_video_login_1_admin: 登录成功拿到页面文字' 视频管理',登录失败停留在登录页面拿到文字‘声像情报分析系统’ [with username='admin', pwd='1111112', expect='密码不能为空', is_sucess=False]</div></td>
+    <td class='passCase'><div class='testcase'>test_load_video_login_1_admin: 登录成功拿到页面文字' 视频管理',登录失败停留在登录页面拿到文字‘声像情报分析系统’ [with username='admin', pwd='112233', expect='声像情报分析系统', is_sucess=False]</div></td>
     <td colspan='5' align='center'>
     <!--默认收起错误信息 -Findyou
     <button id='btn_pt2_2' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt2_2'>通过</button>
@@ -242,10 +242,71 @@ pt2_2: 登录失败后停留在登录页面断言为----&gt;声像情报分析�
     </td>
 </tr>
 
+<tr class='passClass warning'>
+    <td>c_upload_video.UpLoadVideoTest: 上传正常格式视频和非正常格式视频</td>
+    <td class="text-center">2</td>
+    <td class="text-center">2</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c3',2)" class="detail" id='c3'>详细</a></td>
+</tr>
+
+<tr id='pt3_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_up_load_video_type_0_admin</div></td>
+    <td colspan='5' align='center'><span class="label label-success success">通过</span></td>
+</tr>
+
+<tr id='pt3_2' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_up_load_video_type_1_admin</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起错误信息 -Findyou
+    <button id='btn_pt3_2' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt3_2'>通过</button>
+    <div id='div_pt3_2' class="collapse">  -->
+    <!-- 默认展开错误信息 -Findyou -->
+    <button id='btn_pt3_2' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt3_2'>通过</button>
+    <div id='div_pt3_2' class="collapse in" align="left">
+    <pre>
+    
+pt3_2: 上传视频格式不正确，弹出弹框文字为---&gt;上传的视频必须是 MP4/AVI/MPG/WMV/3GP/MOV/ASF/ASX/FLV 格式 !
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
+<tr class='passClass warning'>
+    <td>d_yinshipin.YinShiPinTest: 点击音视频栏目，拿到下面子栏目的title</td>
+    <td class="text-center">1</td>
+    <td class="text-center">1</td>
+    <td class="text-center">0</td>
+    <td class="text-center">0</td>
+    <td class="text-center"><a href="javascript:showClassDetail('c4',1)" class="detail" id='c4'>详细</a></td>
+</tr>
+
+<tr id='pt4_1' class='hiddenRow'>
+    <td class='passCase'><div class='testcase'>test_yinshi_colum_0_admin: 拿到音视频下的子栏目的三个值 [with username='admin', pwd='111111', expect="['时事热点', '内网自编', '外网资源', '外网资源']", is_sucess=True]</div></td>
+    <td colspan='5' align='center'>
+    <!--默认收起错误信息 -Findyou
+    <button id='btn_pt4_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_pt4_1'>通过</button>
+    <div id='div_pt4_1' class="collapse">  -->
+    <!-- 默认展开错误信息 -Findyou -->
+    <button id='btn_pt4_1' type="button"  class="btn btn-danger btn-xs" data-toggle="collapse" data-target='#div_pt4_1'>通过</button>
+    <div id='div_pt4_1' class="collapse in" align="left">
+    <pre>
+    
+pt4_1: 点击音视频库后下子栏目为----&gt;['时事热点', '内网自编', '外网资源', '外网资源']
+
+
+    </pre>
+    </div>
+    </td>
+</tr>
+
 <tr id='total_row' class="text-center active">
     <td>总计</td>
-    <td>4</td>
-    <td>4</td>
+    <td>7</td>
+    <td>7</td>
     <td>0</td>
     <td>0</td>
     <td>通过率：100.00%</td>

@@ -2,30 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92a9c07b-6932-415a-99d8-85931e78a0ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/login_load_video.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Page/Basepage/upload_video_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Page/Bussiness/load_video_bussiness.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Page/Bussiness/upload_video_page_business.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Page/Handle/load_video_handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Page/Handle/upload_video_handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test-copy/read_json_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testsuit/b_load_video_login_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/c_upload_video.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/d_yinshipin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/e_character_bank_test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page/Basepage/persons_bank_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page/Bussiness/persons_bank_business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page/Bussiness/upload_video_business.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page/Bussiness/yinshipin_bussiness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page/Handle/persons_bank_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page/Handle/yinshipin_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test-copy/datatest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test-copy/properpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testsuit/c_upload_video_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testsuit/d_yinshipin_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testsuit/e_persons_bank_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testsuit/f_search_famous_persons.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/151_selenium_UI_report.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/base_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/base_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/commonlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/commonlib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/create_reporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/create_reporter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Commonlib/find_new_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/find_new_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Commonlib/logg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/logg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Commonlib/read_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/Commonlib/read_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/login_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/login_page_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/login_load_video.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/b_load_video_login_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/login_page_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/a_login_test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.10.05.58--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.10.06.11--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.14.14--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.14.27--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.21.01--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.21.25--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.55.20--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.55.33--test_load_video_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Errorpict/20190719.14.56.19--test_load_video_login.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/system.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/system.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Page/Basepage/load_video_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/Basepage/load_video_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page/Basepage/upload_video_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/Basepage/upload_video_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reporter/151_selenium_UI_report.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Runallcase/run_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runallcase/run_all_case.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test-copy/test_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test-copy/test_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page/Bussiness/upload_video_page_business.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/Basepage/yinshipin_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page/Handle/upload_video_handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page/Handle/upload_video_handle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reporter/151_selenium_UI_report.htm" beforeDir="false" afterPath="$PROJECT_DIR$/Reporter/151_selenium_UI_report.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test-copy/read_json_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test-copy/read_json_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testsuit/a_login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testsuit/a_login_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testsuit/b_load_video_login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testsuit/b_load_video_login_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,19 +50,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Page/Basepage/upload_video_page.py">
+        <entry file="file://$PROJECT_DIR$/Page/Basepage/persons_bank_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="213">
+              <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Page/Bussiness/persons_bank_business.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <element signature="e#46#107#0" expanded="true" />
+                <element signature="e#879#896#0" />
+                <element signature="e#689#738#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Page/Handle/upload_video_handle.py">
+        <entry file="file://$PROJECT_DIR$/Testsuit/f_search_famous_persons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="-1053">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding>
+                <element signature="e#46#114#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,7 +103,6 @@
       <find>common</find>
       <find>test_login</find>
       <find>生成测试报告存入</find>
-      <find>filepath</find>
       <find>login</find>
       <find>time</find>
       <find>driver.find_element_by_xpath</find>
@@ -81,6 +111,17 @@
       <find>busi_loadvd_login</find>
       <find>logg_out</find>
       <find>@classmethod</find>
+      <find>str(datetime.date.today())</find>
+      <find>index</find>
+      <find>find_index_ele</find>
+      <find>filepathone</find>
+      <find>filepath</find>
+      <find>find_fenlei_ele</find>
+      <find>prin</find>
+      <find>.//body/div[1]/section/descendant::a[4]</find>
+      <find>test_yinshi_colum</find>
+      <find>test_person_colum</find>
+      <find>get_famous_party_text</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,65 +130,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/login.json" />
-        <option value="$PROJECT_DIR$/v3/data/login.json" />
-        <option value="$PROJECT_DIR$/v3/page/login_page.py" />
-        <option value="$PROJECT_DIR$/v2/test.py" />
-        <option value="$PROJECT_DIR$/v3/utils/read_json.py" />
-        <option value="$PROJECT_DIR$/v3/page/login_page.py" />
-        <option value="$PROJECT_DIR$/v2/bussiness/business.py" />
-        <option value="$PROJECT_DIR$/v3/utils/commonlib.py" />
-        <option value="$PROJECT_DIR$/v3/AllCase/test_login.py" />
-        <option value="$PROJECT_DIR$/v3/bussiness/business.py" />
-        <option value="$PROJECT_DIR$/bussiness/business.py" />
-        <option value="$PROJECT_DIR$/page/page/login_page.py" />
-        <option value="$PROJECT_DIR$/page/basepage/login_page.py" />
-        <option value="$PROJECT_DIR$/page/handle/loginhandle.py" />
-        <option value="$PROJECT_DIR$/Testsuit/a_login.py" />
-        <option value="$PROJECT_DIR$/Page/Bussiness/login_business.py" />
-        <option value="$PROJECT_DIR$/Commonlib/get_driver.py" />
-        <option value="$PROJECT_DIR$/Runallcase/a_login_test.py" />
-        <option value="$PROJECT_DIR$/Page/Basepage/login_page.py" />
-        <option value="$PROJECT_DIR$/Test-copy/test_parmaterized.py" />
-        <option value="$PROJECT_DIR$/Page/Handle/login_handle.py" />
-        <option value="$PROJECT_DIR$/Data/data.json" />
-        <option value="$PROJECT_DIR$/Commonlib/Loggin.py" />
-        <option value="$PROJECT_DIR$/Commonlib/loggin.py" />
         <option value="$PROJECT_DIR$/Testsuit/test_log.py" />
         <option value="$PROJECT_DIR$/Test-copy/find_new_file.py" />
         <option value="$PROJECT_DIR$/Commonlib/send_email.py" />
         <option value="$PROJECT_DIR$/Page/Basepage/load_video_page.py" />
         <option value="$PROJECT_DIR$/Page/Handle/load_video_handle.py" />
-        <option value="$PROJECT_DIR$/Commonlib/logg.py" />
-        <option value="$PROJECT_DIR$/Logs/system.log" />
         <option value="$PROJECT_DIR$/Commonlib/find_new_file.py" />
         <option value="$PROJECT_DIR$/Data/login_load_video.json" />
         <option value="$PROJECT_DIR$/Test-copy/test_log.py" />
         <option value="$PROJECT_DIR$/Test-copy/read_json_data.py" />
         <option value="$PROJECT_DIR$/Data/login_data.json" />
         <option value="$PROJECT_DIR$/Page/Bussiness/load_video_bussiness.py" />
-        <option value="$PROJECT_DIR$/Testsuit/b_load_video_login_test.py" />
-        <option value="$PROJECT_DIR$/Commonlib/read_json.py" />
         <option value="$PROJECT_DIR$/Commonlib/commonlib.py" />
         <option value="$PROJECT_DIR$/Commonlib/create_reporter.py" />
         <option value="$PROJECT_DIR$/Runallcase/run_all_case.py" />
-        <option value="$PROJECT_DIR$/Testsuit/a_login_test.py" />
-        <option value="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" />
         <option value="$PROJECT_DIR$/Commonlib/base_driver.py" />
         <option value="$PROJECT_DIR$/Page/Basepage/upload_video.py" />
         <option value="$PROJECT_DIR$/Page/Bussiness/upload_video_page_business.py" />
-        <option value="$PROJECT_DIR$/Page/Basepage/upload_video_page.py" />
         <option value="$PROJECT_DIR$/Page/Handle/upload_video_handler.py" />
         <option value="$PROJECT_DIR$/Page/Handle/upload_video_handlr.py" />
+        <option value="$PROJECT_DIR$/Logs/system.log" />
+        <option value="$PROJECT_DIR$/Page/Basepage/upload_video_page.py" />
         <option value="$PROJECT_DIR$/Page/Handle/upload_video_handle.py" />
+        <option value="$PROJECT_DIR$/Commonlib/logg.py" />
+        <option value="$PROJECT_DIR$/Test-copy/datatest.py" />
+        <option value="$PROJECT_DIR$/Data/c_upload_video.json" />
+        <option value="$PROJECT_DIR$/Page/Basepage/yinshipin.py" />
+        <option value="$PROJECT_DIR$/Page/Handle/yinshipin_handle.py" />
+        <option value="$PROJECT_DIR$/Data/d_yinshipin.json" />
+        <option value="$PROJECT_DIR$/Commonlib/read_json.py" />
+        <option value="$PROJECT_DIR$/Testsuit/d_yinshipin.py" />
+        <option value="$PROJECT_DIR$/Testsuit/c_upload_video.py" />
+        <option value="$PROJECT_DIR$/Page/Bussiness/upload_video_business.py" />
+        <option value="$PROJECT_DIR$/Test-copy/properpy.py" />
+        <option value="$PROJECT_DIR$/Page/Basepage/character.py" />
+        <option value="$PROJECT_DIR$/Page/Bussiness/character_bank_business.py" />
+        <option value="$PROJECT_DIR$/Page/Handle/character_bank_handle.py" />
+        <option value="$PROJECT_DIR$/Page/Basepage/character_bank_page.py" />
+        <option value="$PROJECT_DIR$/Page/Bussiness/login_bussiness.py" />
+        <option value="$PROJECT_DIR$/Testsuit/d_yinshipin_test.py" />
+        <option value="$PROJECT_DIR$/Testsuit/c_upload_video_test.py" />
+        <option value="$PROJECT_DIR$/Testsuit/b_load_video_login_test.py" />
+        <option value="$PROJECT_DIR$/Testsuit/a_login_test.py" />
+        <option value="$PROJECT_DIR$/Page/Basepage/yinshipin_page.py" />
+        <option value="$PROJECT_DIR$/Data/e_character_bank_test.json" />
+        <option value="$PROJECT_DIR$/Testsuit/e_character_bank_test.py" />
+        <option value="$PROJECT_DIR$/Page/Bussiness/yinshipin_bussiness.py" />
+        <option value="$PROJECT_DIR$/Testsuit/e_persons_bank_test.py" />
+        <option value="$PROJECT_DIR$/Page/Bussiness/persons_bank_business.py" />
+        <option value="$PROJECT_DIR$/Page/Basepage/persons_bank_page.py" />
+        <option value="$PROJECT_DIR$/Page/Handle/persons_bank_handle.py" />
+        <option value="$PROJECT_DIR$/Testsuit/f_search_famous_persons.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2211" />
-    <option name="y" value="-8" />
+    <option name="x" value="2026" />
+    <option name="y" value="-10" />
     <option name="width" value="1164" />
-    <option name="height" value="1092" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +209,17 @@
             <path>
               <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
-              <item name="Commonlib" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
+              <item name="Errorpict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
+              <item name="Logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
@@ -200,24 +252,18 @@
             <path>
               <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
-              <item name="Runallcase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ZHIYINCODE-PO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ZHIYINCODE-PO" type="462c0819:PsiDirectoryNode" />
               <item name="Testsuit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Commonlib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Testsuit/e_character_bank_test.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
@@ -248,29 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.upload_video_page">
-    <configuration name="b_load_video_login_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="POTESTPROJECT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testsuit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testsuit/b_load_video_login_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in f_search_famous_persons.py">
     <configuration name="create-repoter" type="PythonConfigurationType" factoryName="Python">
       <module name="POTESTPROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,7 +317,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_json_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="famous-" type="PythonConfigurationType" factoryName="Python">
+      <module name="POTESTPROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\admin\AppData\Local\Programs\Python\Python35-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testsuit" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Test\ZHIYINCODE-PO\Testsuit\e_persons_bank_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="persons_bank_business" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="POTESTPROJECT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Page/Bussiness" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Page/Bussiness/persons_bank_business.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="properpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="POTESTPROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,7 +374,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test-copy/read_json_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test-copy/properpy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,29 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="upload_video_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="POTESTPROJECT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Page/Basepage" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Page/Basepage/upload_video_page.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for a_login_test.LoginTest.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="POTESTPROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,11 +394,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;a_login_test.LoginTest.test_login&quot;" />
+      <option name="_new_target" value="&quot;f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in a_login_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in f_search_famous_persons.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="POTESTPROJECT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,25 +409,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testsuit/a_login_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testsuit/f_search_famous_persons.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.famous-" />
       <item itemvalue="Python.create-repoter" />
-      <item itemvalue="Python.b_load_video_login_test" />
-      <item itemvalue="Python tests.Unittests in a_login_test.py" />
-      <item itemvalue="Python.read_json_data" />
-      <item itemvalue="Python tests.Unittests for a_login_test.LoginTest.test_login" />
-      <item itemvalue="Python.upload_video_page" />
+      <item itemvalue="Python.properpy" />
+      <item itemvalue="Python.persons_bank_business" />
+      <item itemvalue="Python tests.Unittests in f_search_famous_persons.py" />
+      <item itemvalue="Python tests.Unittests for f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.upload_video_page" />
-        <item itemvalue="Python tests.Unittests in a_login_test.py" />
-        <item itemvalue="Python tests.Unittests for a_login_test.LoginTest.test_login" />
-        <item itemvalue="Python.b_load_video_login_test" />
-        <item itemvalue="Python.read_json_data" />
+        <item itemvalue="Python tests.Unittests in f_search_famous_persons.py" />
+        <item itemvalue="Python tests.Unittests for f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info" />
+        <item itemvalue="Python.persons_bank_business" />
+        <item itemvalue="Python.properpy" />
       </list>
     </recent_temporary>
   </component>
@@ -401,43 +446,47 @@
       <workItem from="1563325506826" duration="26738000" />
       <workItem from="1563411054043" duration="22088000" />
       <workItem from="1563499607598" duration="20801000" />
+      <workItem from="1563758484183" duration="21267000" />
+      <workItem from="1563844710198" duration="24906000" />
+      <workItem from="1563929655989" duration="6293000" />
+      <workItem from="1563945713780" duration="15450000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_run_all_case_py - 2019.07.18 at 09h 25m 06s.xml">
-      <configuration name="Unittests in run_all_case.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 16h 55m 24s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_run_all_case_py - 2019.07.18 at 09h 26m 52s.xml">
-      <configuration name="Unittests in run_all_case.py" configurationId="tests" />
+    <history-entry file="Unittests_for_f_search_famous_persons_SearchFamousPersonsInfo_test_get_famousperson_info - 2019.07.24 at 17h 11m 44s.xml">
+      <configuration name="Unittests for f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_run_all_case_py - 2019.07.18 at 09h 28m 04s.xml">
-      <configuration name="Unittests in run_all_case.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 12m 40s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_run_all_case_py - 2019.07.18 at 09h 28m 17s.xml">
-      <configuration name="Unittests in run_all_case.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 17m 05s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_a_login_test_py - 2019.07.18 at 15h 06m 26s.xml">
-      <configuration name="Unittests in a_login_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_f_search_famous_persons_SearchFamousPersonsInfo_test_get_famousperson_info - 2019.07.24 at 17h 36m 12s.xml">
+      <configuration name="Unittests for f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_a_login_test_py - 2019.07.18 at 15h 07m 39s.xml">
-      <configuration name="Unittests in a_login_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 38m 04s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_a_login_test_py - 2019.07.19 at 13h 46m 09s.xml">
-      <configuration name="Unittests in a_login_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 39m 55s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_a_login_test_py - 2019.07.19 at 13h 49m 49s.xml">
-      <configuration name="Unittests in a_login_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 40m 24s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_a_login_test_LoginTest_test_login - 2019.07.19 at 15h 05m 15s.xml">
-      <configuration name="Unittests for a_login_test.LoginTest.test_login" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 41m 30s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_a_login_test_py - 2019.07.19 at 15h 06m 08s.xml">
-      <configuration name="Unittests in a_login_test.py" configurationId="tests" />
+    <history-entry file="Unittests_in_f_search_famous_persons_py - 2019.07.24 at 17h 43m 49s.xml">
+      <configuration name="Unittests in f_search_famous_persons.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113586000" />
+    <option name="totallyTimeSpent" value="181502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,21 +501,21 @@
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.061555076" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2575594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.713034" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42825848" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27272728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32968238" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32968238" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32896176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -474,29 +523,6 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21868251" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.713034" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26067907" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32896176" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -504,73 +530,58 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/POTESTPROJECT$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1563183045962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/utils" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$find_new_file__1_.coverage" NAME="find_new_file (1) Coverage Results" MODIFIED="1563420590876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_d_yinshipin_py.coverage" NAME="Unittests in d_yinshipin.py Coverage Results" MODIFIED="1563869080594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1563176411129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/script" />
-    <SUITE FILE_PATH="coverage/POTESTPROJECT$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1563174901255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/page" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login_bussiness.coverage" NAME="login_bussiness Coverage Results" MODIFIED="1563343831755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1563345922991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login_handle.coverage" NAME="login_handle Coverage Results" MODIFIED="1563327451779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Handle" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1563858956867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$upload_video_handle.coverage" NAME="upload_video_handle Coverage Results" MODIFIED="1563784649551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Handle" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_e_character_bank_test_py.coverage" NAME="Unittests in e_character_bank_test.py Coverage Results" MODIFIED="1563949197813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login_001_Test.coverage" NAME="login-001-Test Coverage Results" MODIFIED="1563356566287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_for_a_login_test_LoginTest_test_login.coverage" NAME="Unittests for a_login_test.LoginTest.test_login Coverage Results" MODIFIED="1563519915496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
-    <SUITE FILE_PATH="coverage/POTESTPROJECT$error_pwd.coverage" NAME="error_pwd Coverage Results" MODIFIED="1563163266968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1563508281361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$create_repoter.coverage" NAME="create-repoter Coverage Results" MODIFIED="1563519706310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$create_repoter.coverage" NAME="create-repoter Coverage Results" MODIFIED="1563869715230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_f_search_famous_persons_py.coverage" NAME="Unittests in f_search_famous_persons.py Coverage Results" MODIFIED="1563961455544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_login_py__2_.coverage" NAME="Unittests in test_login.py (2) Coverage Results" MODIFIED="1563177697165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/script" />
-    <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_for_test_add_TestAdd_test_add.coverage" NAME="Unittests for test_add.TestAdd.test_add Coverage Results" MODIFIED="1563179077040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddt" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_for_e_character_bank_test_PersonsBank.coverage" NAME="Unittests for e_character_bank_test.PersonsBank Coverage Results" MODIFIED="1563947191804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/PoTestProject$test.coverage" NAME="test Coverage Results" MODIFIED="1563247930557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v2" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$create_reporter.coverage" NAME="create_reporter Coverage Results" MODIFIED="1563411687119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
-    <SUITE FILE_PATH="coverage/PoTestProject$Unittests_in_a_login_py.coverage" NAME="Unittests in a_login.py Coverage Results" MODIFIED="1563264053758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$upload_video_business.coverage" NAME="upload_video_business Coverage Results" MODIFIED="1563846892421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$persons_bank_business.coverage" NAME="persons_bank_business Coverage Results" MODIFIED="1563954164376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_add_py.coverage" NAME="Unittests in test_add.py Coverage Results" MODIFIED="1563179651039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddt" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$read_json_data.coverage" NAME="read_json_data Coverage Results" MODIFIED="1563515747669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$load_video_bussiness.coverage" NAME="load_video_bussiness Coverage Results" MODIFIED="1563436598882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
-    <SUITE FILE_PATH="coverage/PoTestProject$Unittests_for_test_login_TestCase.coverage" NAME="Unittests for test_login.TestCase Coverage Results" MODIFIED="1563249299611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/AllCase" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1563430816677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$famous_.coverage" NAME="famous- Coverage Results" MODIFIED="1563949517553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_login_py__1_.coverage" NAME="Unittests in test_login.py (1) Coverage Results" MODIFIED="1563181504250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/AllCase" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1563163006818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PoTestProject$login_business.coverage" NAME="login_business Coverage Results" MODIFIED="1563264877675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_c_upload_video_py.coverage" NAME="Unittests in c_upload_video.py Coverage Results" MODIFIED="1563868319240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/POTESTPROJECT$login_sucess.coverage" NAME="login_sucess Coverage Results" MODIFIED="1563170618952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_b_load_video_login_test_py.coverage" NAME="Unittests in b_load_video_login_test.py Coverage Results" MODIFIED="1563868256593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_for_e_character_bank_test_PersonsBank_test_person_colum.coverage" NAME="Unittests for e_character_bank_test.PersonsBank.test_person_colum Coverage Results" MODIFIED="1563947303610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_for_c_upload_video_UpLoadVideoTest_test_up_load_video_type.coverage" NAME="Unittests for c_upload_video.UpLoadVideoTest.test_up_load_video_type Coverage Results" MODIFIED="1563846197517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/POTESTPROJECT$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1563174901255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/page" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login_bussiness.coverage" NAME="login_bussiness Coverage Results" MODIFIED="1563343831755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login_handle.coverage" NAME="login_handle Coverage Results" MODIFIED="1563327451779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Handle" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_for_f_search_famous_persons_SearchFamousPersonsInfo_test_get_famousperson_info.coverage" NAME="Unittests for f_search_famous_persons.SearchFamousPersonsInfo.test_get_famousperson_info Coverage Results" MODIFIED="1563960971926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_for_a_login_test_LoginTest_test_login.coverage" NAME="Unittests for a_login_test.LoginTest.test_login Coverage Results" MODIFIED="1563519915496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/POTESTPROJECT$error_pwd.coverage" NAME="error_pwd Coverage Results" MODIFIED="1563163266968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1563508281361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
+    <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_for_test_add_TestAdd_test_add.coverage" NAME="Unittests for test_add.TestAdd.test_add Coverage Results" MODIFIED="1563179077040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ddt" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$create_reporter.coverage" NAME="create_reporter Coverage Results" MODIFIED="1563411687119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/PoTestProject$Unittests_in_a_login_py.coverage" NAME="Unittests in a_login.py Coverage Results" MODIFIED="1563264053758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$read_json_data.coverage" NAME="read_json_data Coverage Results" MODIFIED="1563515747669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$yinshipin_bussiness.coverage" NAME="yinshipin_bussiness Coverage Results" MODIFIED="1563866235800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Bussiness" />
+    <SUITE FILE_PATH="coverage/PoTestProject$Unittests_for_test_login_TestCase.coverage" NAME="Unittests for test_login.TestCase Coverage Results" MODIFIED="1563249299611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/AllCase" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1563430816677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Commonlib" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$datatest.coverage" NAME="datatest Coverage Results" MODIFIED="1563858961896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$b_load_video_login_test.coverage" NAME="b_load_video_login_test Coverage Results" MODIFIED="1563519409458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
-    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_a_login_test_py.coverage" NAME="Unittests in a_login_test.py Coverage Results" MODIFIED="1563519923210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_a_login_test_py.coverage" NAME="Unittests in a_login_test.py Coverage Results" MODIFIED="1563868163164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testsuit" />
     <SUITE FILE_PATH="coverage/PoTestProject$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1563256999166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/AllCase" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$empty_pwd.coverage" NAME="empty_pwd Coverage Results" MODIFIED="1563170550957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/POTESTPROJECT$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1563171535349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v2" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$upload_video_page.coverage" NAME="upload_video_page Coverage Results" MODIFIED="1563521430274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page/Basepage" />
-    <SUITE FILE_PATH="coverage/POTESTPROJECT$login_sucess.coverage" NAME="login_sucess Coverage Results" MODIFIED="1563170618952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$Unittests_in_run_all_case_py.coverage" NAME="Unittests in run_all_case.py Coverage Results" MODIFIED="1563413297159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
     <SUITE FILE_PATH="coverage/PoTestProject$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1563247994741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v3/utils" />
+    <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$properpy.coverage" NAME="properpy Coverage Results" MODIFIED="1563929884948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$login001_test.coverage" NAME="login001_test Coverage Results" MODIFIED="1563333872215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runallcase" />
     <SUITE FILE_PATH="coverage/ZHIYINCODE_PO$find_new_file.coverage" NAME="find_new_file Coverage Results" MODIFIED="1563430059060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test-copy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BasePage.py" />
-    <entry file="file://$PROJECT_DIR$/v1/empty_pwd.py" />
-    <entry file="file://$PROJECT_DIR$/v2/test_login.py" />
-    <entry file="file://$PROJECT_DIR$/v1/login_sucess.py" />
-    <entry file="file://$PROJECT_DIR$/ddt/test_add.py" />
-    <entry file="file://$PROJECT_DIR$/v2/test.py" />
-    <entry file="file://$PROJECT_DIR$/Testsuit/test_login.py" />
-    <entry file="file://$PROJECT_DIR$/Testsuit/a_login.py" />
-    <entry file="file://$PROJECT_DIR$/Page/Bussiness/login_business.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="604" selection-start-line="604" selection-end-line="604" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test-copy/test_parmaterized.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Errorpict/20190717.17.12.17test_login.png" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/suite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/smtplib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -620,13 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/login_load_video.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test-copy/test_log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -644,47 +648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/login_page_data.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test-copy/read_json_data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/system.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Bussiness/load_video_bussiness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#47#88#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Commonlib/logg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="e#46#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Commonlib/read_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -705,59 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Runallcase/run_all_case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="34" column="12" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#46#61#0" expanded="true" />
-            <element signature="e#625#632#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Commonlib/create_reporter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Testsuit/b_load_video_login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
-          <folding>
-            <element signature="e#46#90#0" expanded="true" />
-            <element signature="e#331#350#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reporter/151_selenium_UI_report.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Commonlib/base_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#46#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Bussiness/login_bussiness.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="e#46#90#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,37 +689,284 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testsuit/a_login_test.py">
+    <entry file="file://$PROJECT_DIR$/Page/Handle/upload_video_handlr.py" />
+    <entry file="file://$PROJECT_DIR$/Page/Bussiness/load_video_bussiness.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="57" column="48" lean-forward="true" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
+        <state relative-caret-position="324">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#47#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/base_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#46#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Errorpict/20190723.09.22.33--test_up_load_video_type.png" />
+    <entry file="file://$PROJECT_DIR$/Page/Handle/upload_video_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Basepage/upload_video_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/logg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+          <folding>
+            <element signature="e#46#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test-copy/datatest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="1013" selection-start-line="1013" selection-end-line="1013" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/a_login_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/b_load_video_login_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/c_upload_video.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reporter/151_selenium_UI_report.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/system.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="261" column="49" lean-forward="true" selection-start-line="261" selection-end-line="262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Runallcase/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="e#46#61#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Bussiness/upload_video_page_business.py">
+    <entry file="file://$PROJECT_DIR$/Test-copy/properpy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Handle/upload_video_handlr.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Basepage/upload_video_page.py">
+    <entry file="file://$PROJECT_DIR$/Page/Bussiness/upload_video_business.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="-512">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Page/Handle/upload_video_handle.py">
+    <entry file="file://$PROJECT_DIR$/Errorpict/20190723.16.07.34--test_up_load_video_type.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Errorpict/20190723.15.43.23--test_yinshi_colum.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Errorpict/20190723.09.31.00--test_up_load_video_type.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/a_login_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="524">
+          <caret line="55" column="27" selection-start-line="55" selection-end-line="56" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/b_load_video_login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="47" column="40" selection-start-line="47" selection-end-line="48" />
+          <folding>
+            <element signature="e#46#90#0" expanded="true" />
+            <element signature="e#331#350#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/c_upload_video_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="52" column="41" selection-start-line="52" selection-end-line="53" />
+          <folding>
+            <element signature="e#46#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/d_yinshipin_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="e#46#87#0" expanded="true" />
+            <element signature="e#336#355#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Basepage/yinshipin_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/d_yinshipin.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/e_character_bank_test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commonlib/read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Handle/yinshipin_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Bussiness/yinshipin_bussiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#46#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/e_persons_bank_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Bussiness/login_bussiness.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#46#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Handle/persons_bank_handle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Basepage/persons_bank_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Page/Bussiness/persons_bank_business.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="e#46#107#0" expanded="true" />
+            <element signature="e#879#896#0" />
+            <element signature="e#689#738#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testsuit/f_search_famous_persons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding>
+            <element signature="e#46#114#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
